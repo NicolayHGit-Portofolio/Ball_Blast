@@ -1,0 +1,2 @@
+Game where you control a shooting capsule by holding the left click of the mouse and dragging to the side, moving it and allowing to shoot.
+The objective is to keep alive avoiding enemy spheres while shooting at them, each with their own set of hit values to increase your score.
